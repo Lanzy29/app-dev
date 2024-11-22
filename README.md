@@ -3,7 +3,7 @@ My first repository
 
 # My favorite TV Series
 - The Big Bang Theory
-![alt text](![**TBBT**](https://th.bing.com/th/id/OIP.C3wMih6KlMjFSLHzK9LGsgAAAA?rs=1&pid=ImgDetMain)
+(![**TBBT**](https://th.bing.com/th/id/OIP.C3wMih6KlMjFSLHzK9LGsgAAAA?rs=1&pid=ImgDetMain)
 
 - Lucifer
 ![alt text](https://th.bing.com/th/id/OIP.4eU-RAd5HnPATbr6DBwEiQHaEK?rs=1&pid=ImgDetMain)
